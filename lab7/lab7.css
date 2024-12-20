@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+div {
+    margin-bottom: 20px;
+}
+
+input {
+    margin-right: 10px;
+    padding: 5px;
+    width: 100px;
+}
+
+button {
+    padding: 5px 10px;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+tfoot {
+    font-weight: bold;
+}
+
+.colour {
+    background-color: grey;
+}
